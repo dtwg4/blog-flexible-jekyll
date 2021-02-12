@@ -26,6 +26,12 @@ The post page would look like this:
 
 Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
 
+## Installation:
+
+Build the site and make it available on a local server.
+
+`bundle exec jekyll serve`
+
 ## License
 
 GNU General Public License v3.0
