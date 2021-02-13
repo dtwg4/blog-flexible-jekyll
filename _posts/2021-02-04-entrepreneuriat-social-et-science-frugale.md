@@ -91,10 +91,14 @@ En s'inspirant d'un jouet, une toupie à corde, l'équipe de Manu Prakash a mis 
 * [Stanford news](https://news.stanford.edu/2017/01/10/whirligig-toy-bioengineers-develop-20-cent-hand-powered-blood-centrifuge/)
 * [paper : Bhamia *et al.*, *Hand-powered ultralow-cost paper centrifuge*, Nature Biomedical Engineering, 2017](https://phome.postech.ac.kr/user/edulab/style/phy104/2017reference1.pdf)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pPePaKnYh2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### George Whitesides, vers une science de la simplicité !
+<iframe allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="100%" height="100%" src="https://www.youtube.com/embed/pPePaKnYh2I"></iframe>
 
-Il faut oser le faire.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/fr/george_whitesides_toward_a_science_of_simplicity" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+### Georges Whitesides, vers une science de la simplicité !
+
+Les scientifiques aiment ce qui est complexe et il est très complexe de faire des choses simples.
+
+J'ai découvert Georges Whitesides lorsque j'étais jeune postdoc à MIT. Il y faisait une conférence sur la simplicité.
+
+<iframe allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="100%" height="100%" src="https://embed.ted.com/talks/lang/fr/george_whitesides_toward_a_science_of_simplicity"></iframe>
