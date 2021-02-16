@@ -11,7 +11,7 @@ comments: false
 
 ## Adoptez quelques techniques de gestion de projet.
 
-Par moment, il nous arrive d'être complètement dépassé par l'ampleur d'un projet à accomplir. Dans ces moments là, il y a quelques techniques de gestion de projet qui peuvent être salvatrice.
+Par moment, il nous arrive d'être complètement dépassé par l'ampleur d'un projet à accomplir. Dans ces moments là, il y a quelques techniques de gestion de projet qui peuvent être salvatrice. 
 
 La première technique est qu'un projet qui nous dépasse peut toujours être **décomposé en plus petites tâches** qui nous semble abordables.
 
