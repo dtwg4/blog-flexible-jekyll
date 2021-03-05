@@ -28,7 +28,7 @@ Vous remarquerez que les parois sont un peu flexibles, il y a des stries, des tu
 
 Emboîtez deux pièces Lego et observez. Combien de points de contacts y a-t-il entre les 2 pièces ? A bien y regarder, il y en a 3 par protubérance.
 
-PHOTO LEGO
+![](../assets/img/2103-duplo-wikipedia.jpg)
 
 En mécanique, un objet possède 6 degrés de liberté, 3 degrés de translation et 3 degrés de rotation. Si l'on veut contraindre totalement un objet, il faut bloquer chacun de ces degrés de liberté.
 
@@ -45,11 +45,9 @@ Pour l'anecdote amusante, les chercheurs ont remarqué que la machine spécifiqu
 
 Leur conclusion est sans appel, la répétabilité (précision) du positionnement d'un couplage par moyennage élastique est inversement proportionnel au nombre de points de contact.
 
-Une brique Lego produite par injection plastique est précise à environ 20 micromètres. Et lorsqu'elle sont assemblée, des précisions de l'ordre du micromètre peuvent être atteinte.
+Une brique Lego produite par injection plastique est précise à environ 20 micromètres. Et lorsqu'elles sont assemblées, des précisions de l'ordre du micromètre peuvent être atteintes.
 
 Un très bel encouragement à la [recherche de simplicité et de frugalité]({{site.url}}entrepreneuriat-social-et-science-frugale/).
-
-<a href="{{site.url}}entrepreneuriat-social-et-science-frugale/">lien</a>
 
 Ce principe de couplage a déjà été utilisé pour la confection d'un microscope origami à très bas coût avec des caractéristiques proches des microscopes de laboratoire [[3]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098781).
 
@@ -57,4 +55,4 @@ Dans les fablabs, les imprimantes 3D que l'ont peut rencontrer tel que les Prusa
 
 Pourrions-nous avec ces imprimantes construire des machines ou des pièces mécaniques plus précises que la machine qui les a produite ?
 
-Exploiter les capacités du couplage par moyennage élastique serait un avantage indéniable pour construire de nouvelles machines low-cost à destination de la communauté scientifique notamment qui a souvent un grand besoin de précision. Un challenge auquel nous nous attaquons au labo FrugalLab du FabLab ULB.
+Exploiter les capacités du couplage par moyennage élastique serait un avantage indéniable pour construire de nouvelles machines low-cost. Les scientifiques notamment ont souvent un grand besoin de précision. Ceci pourrait donc s'avérer être une aubaine pour démocratiser du matériel de laboratoire fiables et précis. Un challenge auquel nous nous attaquons au labo FrugalLab du FabLab ULB.
