@@ -55,4 +55,4 @@ Dans les fablabs, les imprimantes 3D que l'ont peut rencontrer tel que les Prusa
 
 Pourrions-nous avec ces imprimantes construire des machines ou des pièces mécaniques plus précises que la machine qui les a produite ?
 
-Exploiter les capacités du couplage par moyennage élastique serait un avantage indéniable pour construire de nouvelles machines low-cost. Les scientifiques notamment ont souvent un grand besoin de précision. Ceci pourrait donc s'avérer être une aubaine pour démocratiser du matériel de laboratoire fiables et précis. Un challenge auquel nous nous attaquons au labo FrugalLab du FabLab ULB.
+Exploiter les capacités du couplage par moyennage élastique serait un avantage indéniable pour construire de nouvelles machines low-cost. Les scientifiques notamment ont souvent un grand besoin de précision. Ceci pourrait donc s'avérer être une aubaine pour démocratiser du matériel de laboratoire fiable et précis. Un challenge auquel nous nous attaquons au labo FrugalLab du FabLab ULB.
