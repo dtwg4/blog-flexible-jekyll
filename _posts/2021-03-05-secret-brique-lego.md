@@ -49,9 +49,9 @@ Une brique Lego produite par injection plastique est précise à environ 20 micr
 
 Un très bel encouragement à la [recherche de simplicité et de frugalité]({{site.url}}entrepreneuriat-social-et-science-frugale/).
 
-Ce principe de couplage a déjà été utilisé pour la confection d'un microscope origami à très bas coût avec des caractéristiques proches des microscopes de laboratoire [[3]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098781).
+Ce principe de couplage a déjà été utilisé pour la confection d'un microscope origami à très bas coût avec des caractéristiques proches des microscopes de laboratoire [[2]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098781).
 
-Dans les fablabs, les imprimantes 3D que l'ont peut rencontrer tel que les Prusa MK3S ont une précision de 0.1mm sur l'axe vertical et 0.3mm sur les axes X et Y horizontaux [[2]](https://help.prusa3d.com/en/article/faq-frequently-asked-questions_1932).
+Dans les fablabs, les imprimantes 3D que l'ont peut rencontrer tel que les Prusa MK3S ont une précision de 0.1mm sur l'axe vertical et 0.3mm sur les axes X et Y horizontaux [[3]](https://help.prusa3d.com/en/article/faq-frequently-asked-questions_1932).
 
 Pourrions-nous avec ces imprimantes construire des machines ou des pièces mécaniques plus précises que la machine qui les a produite ?
 
