@@ -13,7 +13,7 @@ Qui n'a jamais été frustré d'un kit de construction qui s'assemble mal ?
 
 En effet, s'il y a une erreur d'alignement entre deux pièces lors d'un assemblage, à chaque fois que nous ajouterons une pièce à cet assemblage, les erreurs s’additionneront jusqu'à rendre impossible l'ajout de nouvelles pièces.
 
-![](assets/img/2103-numerobis.jpg)
+![](../assets/img/2103-numerobis.jpg)
 
 Et pourtant, cela ne se produit jamais avec les briques Lego !
 
@@ -26,7 +26,7 @@ La raison est très astucieuse et vient de l'élasticité de la brique et d'un c
 Avez-vous déjà observé attentivement une brique Lego ?
 Vous remarquerez que les parois sont un peu flexibles, il y a des stries, des tubes et des protubérances.
 
-Emboîtez deux pièces Lego et observez. Combien de points de contacts y a-t-il entre les 2 pièces ? A bien y regarder, il y en a 3 par protubérances.
+Emboîtez deux pièces Lego et observez. Combien de points de contacts y a-t-il entre les 2 pièces ? A bien y regarder, il y en a 3 par protubérance.
 
 PHOTO LEGO
 
@@ -47,9 +47,9 @@ Leur conclusion est sans appel, la répétabilité (précision) du positionnemen
 
 Une brique Lego produite par injection plastique est précise à environ 20 micromètres. Et lorsqu'elle sont assemblée, des précisions de l'ordre du micromètre peuvent être atteinte.
 
-Un très bel encouragement à la [recherche de simplicité et de frugalité]({{site.url}}/entrepreneuriat-social-et-science-frugale/).
+Un très bel encouragement à la [recherche de simplicité et de frugalité]({{site.url}}entrepreneuriat-social-et-science-frugale/).
 
-<a href="{{site.url}}/entrepreneuriat-social-et-science-frugale/">lien</a>
+<a href="{{site.url}}entrepreneuriat-social-et-science-frugale/">lien</a>
 
 Ce principe de couplage a déjà été utilisé pour la confection d'un microscope origami à très bas coût avec des caractéristiques proches des microscopes de laboratoire [[3]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098781).
 
