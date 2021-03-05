@@ -99,6 +99,6 @@ En s'inspirant d'un jouet, une toupie à corde, l'équipe de Manu Prakash a mis 
 
 Les scientifiques aiment ce qui est complexe et il est très complexe de faire des choses simples.
 
-J'ai découvert Georges Whitesides lorsque j'étais jeune postdoc à MIT. Il y faisait une conférence sur la simplicité.
+J'ai découvert Georges Whitesides lorsque j'étais jeune postdoc à MIT. Il y faisait une conférence sur la simplicité.  Test
 
 <iframe allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="100%" height="100%" src="https://embed.ted.com/talks/lang/fr/george_whitesides_toward_a_science_of_simplicity"></iframe>
