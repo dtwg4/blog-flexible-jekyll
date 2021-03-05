@@ -2,7 +2,7 @@
 layout: post
 title: Effrayé par l'ampleur d'un projet à accomplir ?
 date: 2021-02-12 09:30:00 +0100
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Adoptez quelques techniques de gestion de projet.
 img: stock-photo-young-desperate-businessman-suffering-stress-working-at-computer-desk-holding-sign-asking-for-help-729824323.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [gestion-projet]
@@ -11,7 +11,7 @@ comments: false
 
 ## Adoptez quelques techniques de gestion de projet.
 
-Par moment, il nous arrive d'être complètement dépassé par l'ampleur d'un projet à accomplir. Dans ces moments là, il y a quelques techniques de gestion de projet qui peuvent être salvatrice.
+Par moment, il nous arrive d'être complètement dépassé par l'ampleur d'un projet à accomplir. Dans ces moments là, il y a quelques techniques de gestion de projet qui peuvent être salvatrice. 
 
 La première technique est qu'un projet qui nous dépasse peut toujours être **décomposé en plus petites tâches** qui nous semble abordables.
 
